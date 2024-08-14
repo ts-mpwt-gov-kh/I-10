@@ -229,7 +229,7 @@ table, th {
 
 td {
     padding: 15px; /* Increase padding for better spacing */
-    border: 2px solid rgb(207, 207, 207); /* Remove border from td elements */
+    border: 5px solid rgb(207, 207, 207); /* Remove border from td elements */
    
 }
 
